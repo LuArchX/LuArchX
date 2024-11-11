@@ -1,4 +1,4 @@
-[![header](./banner.png)]
+![header](./banner.png)
 
 # Hello World !, I'm Soulaym 👋
 
